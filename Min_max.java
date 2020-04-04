@@ -1,4 +1,4 @@
-import java.util. * ;
+import java.util.* ;
 
 public class Min_max {
 	static Scanner sc = new Scanner(System. in );
